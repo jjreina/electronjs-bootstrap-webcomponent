@@ -1,1 +1,1 @@
-# electronjs-bootstrap-wewcomponent
+# electronjs-bootstrap-webcomponent
