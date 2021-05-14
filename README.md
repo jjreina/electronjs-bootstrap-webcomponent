@@ -23,3 +23,7 @@ npm install
 # Run the app
 npm start
 ```
+
+## App
+
+![](app_example.gif)
